@@ -717,6 +717,10 @@ a {
     .card-container::-webkit-scrollbar{
         display: none;
     }
+
+    .main-content::-webkit-scrollbar{
+        display: none;
+    }
 }
 
 @media (min-width: 1000px) {
