@@ -613,7 +613,15 @@ a {
         width: 100%;
         margin: 0rem;
         padding: 0rem;
-        border-radius: 0.5rem;
+    }
+
+    .main-content{
+        padding: 0px 10px 10px 15px;
+    }
+
+    .badge{
+        background-color: #12ff65;
+        font-weight: 500;
     }
 
     h2{
@@ -667,19 +675,23 @@ a {
         height: 170px;
         text-align: center;
         font-size: 12px;
+        padding: 0.3;
     }
 
     .img-round{
-        width: 100px;
-        height: 110px;
+        width: 112px;
+        height: 115px;
     }
 
     .card{
         width: fit-content;
+        padding: 0.2rem;
+        margin: 0.5rem;
     }
 
     .card-img{
-        width: 100px;
+        width: 130px;
+        height: 130px;
     }
 
     .list{
